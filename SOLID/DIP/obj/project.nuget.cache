@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "p6rgmD1Wyx3PVVtJcf1/sRRx+1eJCu3XPKo+JstM8eMqk53NfQFwlmDpLsngVFtkFFCljPJDwnZpKGUI49pgpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Akash\\Desktop\\SOLID\\SOLID\\DIP\\DIP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akash\\.nuget\\packages\\microsoft.build\\17.9.5\\microsoft.build.17.9.5.nupkg.sha512",
+    "C:\\Users\\Akash\\.nuget\\packages\\microsoft.build.framework\\17.9.5\\microsoft.build.framework.17.9.5.nupkg.sha512",
+    "C:\\Users\\Akash\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Akash\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Akash\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Akash\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Akash\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Akash\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Build 17.9.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Build",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

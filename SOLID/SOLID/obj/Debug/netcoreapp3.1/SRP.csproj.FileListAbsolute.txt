@@ -1,0 +1,13 @@
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\bin\Debug\netcoreapp3.1\SRP.exe
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\bin\Debug\netcoreapp3.1\SRP.deps.json
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.json
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\bin\Debug\netcoreapp3.1\SRP.runtimeconfig.dev.json
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\bin\Debug\netcoreapp3.1\SRP.dll
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\bin\Debug\netcoreapp3.1\SRP.pdb
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\obj\Debug\netcoreapp3.1\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\obj\Debug\netcoreapp3.1\SRP.AssemblyInfoInputs.cache
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\obj\Debug\netcoreapp3.1\SRP.AssemblyInfo.cs
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\obj\Debug\netcoreapp3.1\SRP.csproj.CoreCompileInputs.cache
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\obj\Debug\netcoreapp3.1\SRP.dll
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\obj\Debug\netcoreapp3.1\SRP.pdb
+C:\Users\Akash\Desktop\SOLID\SOLID\SOLID\obj\Debug\netcoreapp3.1\SRP.genruntimeconfig.cache

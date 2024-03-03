@@ -1,0 +1,14 @@
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\bin\Debug\netcoreapp3.1\ISP.exe
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\bin\Debug\netcoreapp3.1\ISP.deps.json
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\bin\Debug\netcoreapp3.1\ISP.runtimeconfig.json
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\bin\Debug\netcoreapp3.1\ISP.runtimeconfig.dev.json
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\bin\Debug\netcoreapp3.1\ISP.dll
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\bin\Debug\netcoreapp3.1\ISP.pdb
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\obj\Debug\netcoreapp3.1\ISP.csproj.AssemblyReference.cache
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\obj\Debug\netcoreapp3.1\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\obj\Debug\netcoreapp3.1\ISP.AssemblyInfoInputs.cache
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\obj\Debug\netcoreapp3.1\ISP.AssemblyInfo.cs
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\obj\Debug\netcoreapp3.1\ISP.csproj.CoreCompileInputs.cache
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\obj\Debug\netcoreapp3.1\ISP.dll
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\obj\Debug\netcoreapp3.1\ISP.pdb
+C:\Users\Akash\Desktop\SOLID\SOLID\ISP\obj\Debug\netcoreapp3.1\ISP.genruntimeconfig.cache
